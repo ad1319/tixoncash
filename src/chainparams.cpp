@@ -215,7 +215,7 @@ public:
         strNetworkID = "test";
         pchMessageStart[0] = 0x4a;
         pchMessageStart[1] = 0x2d;
-        pchMessageStart[2] = 0x32;
+        pchMessageStart[2] = 0x64;
         pchMessageStart[3] = 0xbc;
         vAlertPubKey = ParseHex("04ba89975265af1d4c6295d3587eb4a0e4b758bde1621ef2ab8f92b98e7ed1c85547c9b7a3f145a66aa2abb91db5c13295828e77d823ea6d9b4bb89912425e1efe");
         nDefaultPort = 19433;
